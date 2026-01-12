@@ -474,7 +474,7 @@ Os grupos em peregrinação podem trazer um sacerdote acompanhante.
 
 ---
 
-## [Categoria: Organização de Peregrinações] Alojamento e Refeições - Casas de Retiros do Santuário
+## [Categoria: Organização de Peregrinações] Alojamento e Refeições - Onde Dormir e Comer em Fátima
 
 O Santuário de Fátima dispõe de unidades de alojamento próprias para grupos em peregrinação:
 
@@ -487,7 +487,9 @@ O Santuário de Fátima dispõe de unidades de alojamento próprias para grupos 
 - Refeições
 - Espaços de encontro, reunião e conferência
 
-**INFORMAÇÕES E RESERVAS:** https://booking.fatima.pt/pt
+**COMO RESERVAR:** Se pretender ficar alojado ou fazer refeições nas casas de retiros do Santuário de Fátima ou no Centro Pastoral de Paulo VI, deve procurar informações junto do Departamento de Hospedagem ou através da página de Hospedagem do Santuário de Fátima.
+
+**OUTRAS OPÇÕES:** Se pretende outro tipo de alojamento e de restaurante deverá pesquisar em espaços de informação turística.
 
 A reserva está sujeita a disponibilidade e ao preçário estabelecido.
 
@@ -507,13 +509,23 @@ O Santuário de Fátima organiza diversos retiros ao longo do ano:
 
 ## [Categoria: Organização de Peregrinações] Fotografias e Vídeos no Santuário de Fátima
 
-É permitido fazer fotografias e vídeos no Santuário de Fátima.
+É permitido fazer fotografias e vídeos no Santuário de Fátima, respeitando determinadas normas.
+
+**NATUREZA DO ESPAÇO:** O Santuário de Fátima é um espaço privado de utilização pública, onde o ambiente de silêncio e recolhimento é fundamental.
+
+**PARA PEREGRINOS INDIVIDUAIS:** Não é necessária acreditação, mas deve-se manter o respeito pelo ambiente de oração e pelas demais pessoas.
 
 **PARA GRUPOS ORGANIZADOS:** O registo fotográfico ou videográfico da peregrinação (celebrações, espaços visitados) requer:
 - Acreditação prévia junto dos serviços do Santuário
 - Respeito pelas normas estabelecidas
 
-**PARA PEREGRINOS INDIVIDUAIS:** Não é necessária acreditação, mas deve-se manter o respeito pelo ambiente de oração e pelas demais pessoas.
+**PARA FINS PROFISSIONAIS:** A captação de imagens, em fotografia ou vídeo, para fins profissionais obedece a normas específicas que podem ser consultadas na página do Santuário sobre normas de permanência e circulação de profissionais de comunicação social.
+
+**FOTÓGRAFOS DE CASAMENTOS:** Fotógrafos que vão fotografar casamentos no Santuário necessitam de acreditação. Deve ser contactado o Departamento de Liturgia através do email liturgia@fatima.pt ou pelo telefone 249 539 600.
+
+**JORNALISTAS E PROFISSIONAIS DE COMUNICAÇÃO SOCIAL:** Necessitam de acreditação emitida pelo Gabinete de Comunicação para trabalharem nos espaços do Santuário de Fátima. Mais informação disponível na página de Acreditação de Imprensa do Santuário.
+
+**DRONES:** O uso de drones NÃO é permitido. O espaço aéreo do Santuário de Fátima encontra-se interditado.
 
 ---
 
@@ -656,3 +668,107 @@ O Arquivo do Santuário de Fátima possui um acervo fotográfico que pode ser co
 **TAXAS:** O licenciamento pode estar sujeito a taxas, dependendo do fim pretendido.
 
 **FOTOGRAFIAS DE CELEBRAÇÕES:** Se pensa ter sido fotografado numa celebração, pode verificar nas galerias online ou contactar diretamente o Núcleo Audiovisual.
+
+---
+
+## [Categoria: Transmissões Online] Transmissão das Celebrações - Canais e Horários
+
+O Santuário de Fátima transmite celebrações em direto através dos seus canais digitais oficiais.
+
+**CELEBRAÇÕES TRANSMITIDAS DIARIAMENTE:**
+- Missa das 11h00
+- Terço das 18h30
+- Terço das 21h30
+
+**CANAIS:** YouTube e Facebook do Santuário de Fátima
+
+**PEREGRINAÇÕES ANIVERSÁRIAS:** As peregrinações internacionais aniversárias são sempre transmitidas nos canais digitais do Santuário.
+
+**IMPORTANTE - DISPONIBILIDADE DE VÍDEOS:** O Santuário não disponibiliza o vídeo das celebrações depois de estas terem acontecido. O objetivo da transmissão é permitir aos peregrinos que se unam ao que está a acontecer no Santuário de Fátima, no momento da celebração. Isso só é possível nos diretos. Na missa, sobretudo, mas também nas restantes celebrações, é significativo que todos estejam, em simultâneo e em união, a participar.
+
+**PROBLEMAS TÉCNICOS:** Se detetar problemas com a transmissão (sem som, som baixo, transmissão em falta), agradecemos que nos comunique para que possamos encaminhar ao serviço responsável.
+
+---
+
+## [Categoria: Devoções e Símbolos] Virgem Peregrina - Imagens que Viajam pelo Mundo
+
+O Santuário de Fátima possui imagens da Virgem Peregrina que viajam pelo mundo como missionárias da Mensagem de Fátima.
+
+**QUANTAS IMAGENS EXISTEM:** Atualmente, o Santuário de Fátima possui treze imagens da Virgem Peregrina de Fátima. Doze delas peregrinam de forma regular, e todas regressam ao Santuário após o término da peregrinação.
+
+**MISSÃO:** As Imagens da Virgem Peregrina de Fátima que saem do Santuário, rumo às mais diversas paragens do mundo, fazem-se anunciadoras da Mensagem de Fátima e do próprio catolicismo, quer como missionárias em territórios descristianizados quer como evangelizadoras em comunidades cristãs, na medida em que Maria indica sempre o caminho para Deus.
+
+**SIMBOLISMO:** As imagens partem do local das aparições de Fátima, o que reforça o valor simbólico destas visitas, pois é como se a própria Virgem Maria se fizesse peregrina e caminhasse em direção dos devotos de Fátima, constituindo um momento muito especial para aqueles que acolhem as imagens.
+
+**PAÍSES VISITADOS (desde 2020):** As Imagens Peregrinas (da n.º 2 à n.º 13) percorreram cerca de 18 países: Portugal, Angola, EUA, Argentina, Brasil, França, Nicarágua, Países do Cáucaso (Geórgia, Azerbaijão e Arménia), Burkina Faso, Itália, Espanha, Chile, Venezuela, Colômbia e Ucrânia.
+
+**REGISTO DE VIAGENS:** O registo mais sistemático das viagens das Imagens da Virgem Peregrina do Santuário de Fátima é uma prática mais recente, pelo que ainda não é possível a elaboração de um elenco detalhado de todos os destinos visitados.
+
+---
+
+## [Categoria: Normas e Regulamentos] Depósito de Cinzas - Não Permitido no Santuário
+
+O Santuário de Fátima não permite o depósito de cinzas resultantes de cremação.
+
+**REGRA:** Enquanto espaço privado de utilização pública, o Santuário de Fátima não permite o depósito de cinzas.
+
+**ENQUADRAMENTO LEGAL:** O destino das cinzas resultantes da cremação deve respeitar o que a lei portuguesa determina nessa matéria.
+
+---
+
+## [Categoria: Canais Oficiais] Páginas Falsas do Santuário - Como Identificar Canais Oficiais
+
+O Santuário de Fátima tem conhecimento da existência de várias páginas, perfis e grupos que, nas redes sociais, usam abusivamente o nome da instituição.
+
+**COMO VERIFICAR:** Para ajudar os peregrinos a identificar os canais oficiais do Santuário foi criado um vídeo explicativo disponível na página oficial: "Santuário de Fátima nas redes sociais".
+
+**RECOMENDAÇÃO:** Antes de interagir com páginas nas redes sociais ou sites que afirmem ser do Santuário de Fátima, verifique se se trata de um canal oficial consultando a página principal do Santuário em fatima.pt.
+
+---
+
+## [Categoria: Sacramentos e Bênçãos] Hóstias sem Glúten - Disponibilidade para Pessoas Celíacas
+
+O Santuário de Fátima disponibiliza hóstias sem glúten para pessoas com doença celíaca ou intolerância ao glúten.
+
+**DISPONIBILIDADE:** Sim, as hóstias sem glúten estão disponíveis no Santuário desde 2019.
+
+**COMO SOLICITAR:** Basta que o peçam antes da celebração da missa. Para o efeito, devem contactar o sacristão que lhes dá a indicação de como devem proceder.
+
+**ORIGEM DAS HÓSTIAS:** As hóstias que se consomem no Santuário de Fátima são fabricadas por uma comunidade religiosa feminina.
+
+---
+
+## [Categoria: Devoções e Símbolos] Réplicas da Capelinha das Aparições - Autorizações e Localizações
+
+O Santuário de Fátima pode autorizar a construção de réplicas da Capelinha das Aparições, mediante pedido formal.
+
+**POSIÇÃO DO SANTUÁRIO:** O Santuário de Fátima entende que o grande sinal da devoção a Nossa Senhora de Fátima e da sua mensagem é a sua imagem (escultura). Porém, quando é pedido ao Santuário a autorização para a construção de réplicas da Capelinha das Aparições, é dada a necessária autorização.
+
+**REQUISITO PARA AUTORIZAÇÃO:** O pedido deve ser formulado diretamente pelo Bispo da Diocese em causa.
+
+**RÉPLICAS CONHECIDAS:**
+- Capelinha das Aparições de Nossa Senhora de Fátima, Washington, Estados Unidos da América
+- Capelinha das Aparições de Nossa Senhora de Fátima, Guanica, Porto Rico
+- Capelinha das Aparições de Nossa Senhora de Fátima, Seveso, Milão, Itália
+- Capelinha das Aparições de Nossa Senhora de Fátima, Rio de Janeiro, Brasil
+- Capelinha das Aparições de Nossa Senhora de Fátima, Rio Grande do Norte, Brasil
+- Capelinha das Aparições de Nossa Senhora de Fátima, em Cebu, Filipinas
+- Capelinha das Aparições de Nossa Senhora de Fátima, Koclirov, na Chéquia
+- Capelinha das Aparições de Nossa Senhora de Fátima, Szczecin, Polónia
+- Capelinha das Aparições de Nossa Senhora de Fátima, Cidade do Panamá, Panamá
+
+**NOTA:** Podem existir outras réplicas de uso particular ou de que o Santuário não tenha conhecimento.
+
+---
+
+## [Categoria: Comunicação e Media] Jornal Voz da Fátima - Subscrição Gratuita
+
+O Santuário de Fátima publica o jornal Voz da Fátima, de distribuição gratuita.
+
+**PERIODICIDADE:** Mensário (publicado ao dia 13 de cada mês)
+
+**LÍNGUA:** Português
+
+**CUSTO:** Gratuito
+
+**COMO RECEBER:** Para receber mensalmente o jornal basta enviar uma mensagem por email para o endereço assinaturas@fatima.pt, manifestando esse interesse e indicando nome e morada completos. Em alternativa, pode contactar os serviços do Santuário de Fátima por telefone, através do número 249 539 600.
